@@ -7,5 +7,6 @@
 <h1>Expêriencia:<h1>
 
 <br>- python nivel básico
-<br>-
+<br>- POO (programação orientada a objetos)
+<br>
 
